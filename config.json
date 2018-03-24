@@ -1,0 +1,8 @@
+{
+ "api_url_prefix":"https://api.data.arlingtonva.us/api/v2/datastreams/",
+ "data_streams": [
+     {"name": "police_log", "guid": "POLIC-INCID-LOG-19589"}
+ ],
+ "api_url_suffix":"/data.json/",
+ "api_key":"[api key goes here]"
+}
